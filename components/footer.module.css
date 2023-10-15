@@ -1,0 +1,9 @@
+.footerStyle {
+    margin-top: auto;
+    min-height: 50px;
+    height: auto;
+    background-color: #151d25;
+    color: white;
+    padding: 0px 20px;
+    box-sizing: border-box;
+}

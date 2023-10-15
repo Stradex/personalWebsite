@@ -1,0 +1,117 @@
+.contentItem {
+    min-height: 250px;
+    padding: 0px 20px 25px 20px;
+}
+
+.contentParagraph {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 1em;
+    padding: 0px 25px;
+    margin: 0;
+}
+
+.content_title
+{
+    font-size: 1.3em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0px 20px;
+    display: inline-block;
+}
+
+.title_icon {
+    height: 25px;
+    width: 20px;
+    padding: 0;
+    margin: 0;
+}
+
+.contentItem:nth-child(odd) a {
+    color: #90a1bb;
+}
+
+.contentItem:nth-child(even) a {
+    color: #686b6f;
+}
+
+.contentItem:nth-child(odd) .contentParagraph {
+    color: #dcebf2;
+}
+
+.contentItem:nth-child(even) .contentParagraph {
+    color: #686b6f;
+}
+
+.contentItem:nth-child(even) {
+    background-color: white;
+}
+
+.contentItem:nth-child(odd) {
+    background-color: #2e3e4e;
+}
+
+.contentItem:nth-child(odd) .content_title {
+    color: #90a1bb;
+}
+
+.contentItem:nth-child(even) .content_title {
+    color: #2e3e4e;
+}
+
+@media screen and (max-width:500px) {
+    .contentItem:nth-child(odd) .image_preview {
+        float:none;
+        display: block;
+        margin: 20px auto;
+    }
+    
+    .contentItem:nth-child(even) .image_preview {
+        float:none;
+        display: block;
+        margin: 20px auto;
+    }
+    .contentItem:nth-child(even) div {
+        text-align: center;
+    }
+    .contentItem:nth-child(odd) div {
+        text-align: center;
+    }
+    .title_icon {
+        display:none;
+    }
+    .contentItem:nth-child(odd) .contentParagraph {
+        text-align: left;
+    }
+    
+    .contentItem:nth-child(even) .contentParagraph {
+        text-align: left;
+    }
+}
+
+@media screen and (min-width:500px) {
+    .contentItem:nth-child(odd) .image_preview {
+        float: left;
+        padding: 0px 20px;
+    }
+    
+    .contentItem:nth-child(even) .image_preview {
+        float: right;
+        padding: 0px 20px;
+    }
+    .contentItem:nth-child(even) div {
+        text-align: right;
+    }
+    .contentItem:nth-child(odd) div {
+        text-align: left;
+    }
+    .title_icon {
+        display:inline-block;
+    }
+    .contentItem:nth-child(odd) .contentParagraph {
+        text-align: left;
+    }
+    
+    .contentItem:nth-child(even) .contentParagraph {
+        text-align: right;
+    }
+}
