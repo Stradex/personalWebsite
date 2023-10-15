@@ -1,0 +1,35 @@
+.menuContainer {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    background-color: rgb(224, 230, 235);
+    align-content: center;
+    align-items: center;
+}
+
+.leftMenu {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+.rightMenu {
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    padding: 0;
+    align-content: center;
+    margin-left: auto;
+}
+
+.menuContainer li {
+    list-style: none;
+    padding: 1rem;
+    font-size: 1.1rem;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(43, 60, 77);
+    align-items: center;
+}

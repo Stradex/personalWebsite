@@ -5,6 +5,7 @@ import MainPage from '../components/mainPage';
 import About from '../components/about';
 import ProjectItem from '../components/projectItem';
 import Footer from '../components/footer';
+import Menu from '../components/menu';
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
         <meta name="description" content="Personal website of Maximiliano Ruben Viamonte (aka Stradex). Come in and watch my stuff." />
       </Head>
       <Header title="My Works" subtitle="Maximiliano Ruben Viamonte"></Header>
+      <Menu></Menu>
       <About>
         Hello there, my name is Maximiliano Ruben Viamonte but some know me as Stradex.<br /> This is my personal website where I upload all my past and current projects.<br /><br />
         I've spent years doing Games, Music and other stuff. I love creating stuff, be it a game, a song, a piece of software, a piece of text that tells an history, anything that requires me to be creative brings joy to my heart.<br /><br />
