@@ -1,0 +1,21 @@
+.title {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: #2c4366;
+    text-underline-offset: 15px;
+}
+
+.subTitle {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.25em;
+    text-align: right;
+}
+
+.headerContainer {
+    background-color: #36517c;
+    min-height: 100px;
+    padding: 10px 30px;
+}
