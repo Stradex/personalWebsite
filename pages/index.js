@@ -8,7 +8,12 @@ import Footer from '../components/footer';
 
 export default function Home() {
   return (
+    
     <MainPage>
+      <Head>
+        <title>Maximiliano Ruben Viamonte's website</title>
+        <meta name="description" content="Personal website of Maximiliano Ruben Viamonte (aka Stradex). Come in and watch my stuff." />
+      </Head>
       <Header title="My Works" subtitle="Maximiliano Ruben Viamonte"></Header>
       <About>
         Hello there, my name is Maximiliano Ruben Viamonte but some know me as Stradex.<br /> This is my personal website where I upload all my past and current projects.<br /><br />
