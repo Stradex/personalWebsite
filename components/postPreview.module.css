@@ -1,0 +1,52 @@
+.post_item {
+    min-height: 200px;
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.post_item:nth-child(odd) {
+    background-color: #C4DCFF;
+}
+
+.post_item:nth-child(even){
+    background-color: #A9B7CC;
+}
+
+.post_title {
+    font-size: 1.5rem;
+    color: #202833;
+    margin: 0.5rem 0;
+}
+
+.post_item:nth-child(odd) .post_title {
+    text-align: left;
+}
+
+.post_item:nth-child(even) .post_title {
+    text-align: right;
+}
+.post_item small {
+    font-style: italic;
+    font-weight: bold;
+    color: #57606d;
+}
+
+.post_item:nth-child(odd) small {
+    align-self: flex-start;
+}
+
+.post_item:nth-child(even) small {
+    align-self: flex-end;
+}
+
+.post_description {
+    padding: 0.5rem;
+    color: rgb(54, 59, 66);
+    font-size: 1rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.post_link {
+    color: rgb(71, 87, 97);
+}

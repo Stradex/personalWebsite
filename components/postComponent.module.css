@@ -1,0 +1,13 @@
+.post_article {
+    padding: 1rem;
+}
+.post_title {
+    text-align: center;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(43, 60, 77);
+}
+
+.post_date {
+    color: rgb(150, 153, 199);
+}

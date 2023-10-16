@@ -6,6 +6,7 @@ import Footer from "../components/footer";
 import styles from "../components/mainPage.module.css"
 import { getSortedPostsData } from "../lib/posts";
 import Link from "next/link";
+import PostPreview from "../components/postPreview";
 
 //Static Generation
 export async function getStaticProps() {
@@ -20,19 +21,17 @@ export async function getStaticProps() {
 export default function Blog({allPostsData}) {
     return (
     <MainPage>
-        <Header title="My Works" subtitle="Maximiliano Ruben Viamonte"></Header>
+      <Head>
+        <title>Blog of Maximiliano Ruben Viamonte.</title>
+        <meta name="description" content="Personal blog of Maximiliano Ruben Viamonte (aka Stradex)." />
+      </Head>
+        <Header title="My Blog" subtitle="Maximiliano Ruben Viamonte"></Header>
         <Menu></Menu>
         <div className={styles.mainContent}>
-            {allPostsData && allPostsData.map(({id, date, title}) => (
-              <li key={id}>
-              <Link href={`/posts/${id}`}>{title}</Link>
-              <br />
-              <small>
-                <Date dateString={date} />
-              </small>
-            </li>
+            {allPostsData && allPostsData.map(({id, date, title, description}) => (
+                <PostPreview key={id} id={id} date={date} title={title} description={description}></PostPreview>
             ))}
-        </div>
+        </div>  
         <Footer></Footer>
     </MainPage>
     );
