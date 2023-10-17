@@ -10,6 +10,8 @@ const nextConfig = {
         loader: 'akamai',
         path: '',
     },
+    basePath: "/personalWebsite",
+
   }
    
   module.exports = nextConfig
