@@ -2,11 +2,14 @@
  * @type {import('next').NextConfig}
  */
 const nextConfig = {
-    output: 'export',
+    output: 'standalone',
      trailingSlash: true,
     //Básicamente este images : { unoptimized: true } fue el que me permitio generar los HTML
+    
     images: {
         unoptimized: true,
+        loader: 'akamai',
+        path: '',
     },
   }
    
