@@ -1,7 +1,5 @@
 import styles from './menu.module.css'
 import Image from 'next/image'
-import github_icon from '../public/images/ui_github.png';
-import linkedin_icon from '../public/images/ui_linkedin.png';
 import Link from 'next/link';
 
 export default function Menu() {

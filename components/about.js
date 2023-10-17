@@ -1,6 +1,5 @@
 import Image from 'next/image';
 import styles from './about.module.css'
-import img from '../public/images/ui_icon1.png'
 
 export default function About({children}) {
     return (
@@ -8,7 +7,7 @@ export default function About({children}) {
             <Image
                 className={styles.about_icon}
                 priority
-                src={img}
+                src="/images/ui_icon1.png"
                 alt="icon"
                 width={30}
                 />

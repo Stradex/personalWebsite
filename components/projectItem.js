@@ -1,6 +1,5 @@
 import Image from 'next/image';
 import styles from './projectItem.module.css';
-import img_icon from '../public/images/ui_icon2.png';
 
 export default function ProjectItem({title, img, url, children}) {
     return (
@@ -10,7 +9,7 @@ export default function ProjectItem({title, img, url, children}) {
                 
             <div className={styles.title_icon} >
                 <Image
-                    src={img_icon}
+                    src="/images/ui_icon2.png"
                     alt=''
                     width={25}
                     height={25}
@@ -24,7 +23,7 @@ export default function ProjectItem({title, img, url, children}) {
             )}
             <div className={styles.title_icon} >
                 <Image
-                    src={img_icon}
+                    src="/images/ui_icon2.png"
                     alt=''
                     width={25}
                     height={25}
