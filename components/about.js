@@ -10,6 +10,7 @@ export default function About({children}) {
                 src="/images/ui_icon1.png"
                 alt="icon"
                 width={30}
+                height={30}
                 />
             <p>
                 {children}
