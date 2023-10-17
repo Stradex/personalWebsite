@@ -12,8 +12,8 @@ export default function Menu() {
                 <li><Link href="/blog">Blog</Link></li>
             </ul>
             <ul className={styles.rightMenu}>
-                <li><a href="https://github.com/Stradex/"><Image src='/personalWebsite/images/ui_github.png' width={35} height={35} /></a></li>
-                <li><a href="https://www.linkedin.com/in/maximiliano-ruben-viamonte-873b94291"><Image src="/personalWebsite/images/ui_linkedin.png" width={35} height={35} /></a></li>
+                <li><a href="https://github.com/Stradex/"><Image src='/images/ui_github.png' width={35} height={35} /></a></li>
+                <li><a href="https://www.linkedin.com/in/maximiliano-ruben-viamonte-873b94291"><Image src="/images/ui_linkedin.png" width={35} height={35} /></a></li>
             </ul>
         </nav>
     )
