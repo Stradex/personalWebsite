@@ -69,6 +69,41 @@ module.exports = {
 };
 ```
 
+### How to export Static HTML files
+When trying to export static generated html files, you will face some issues for new Next.js versions use a new method to export.
+
+We will need to change the image loader to **akami** and set output to **standlone** in our Next.js configuration JSON.
+
+To generate the static generated files with this old version of Next.js, you will have to do the following.
+
+1. Go to **next.config.js** and set the following.
+
+```json
+/**
+ * @type {import('next').NextConfig}
+ */
+const nextConfig = {
+    output: 'standalone',
+     trailingSlash: true,
+         
+    images: {
+        unoptimized: true,
+        loader: 'akamai',
+        path: '',
+    },
+  }
+   
+  module.exports = nextConfig
+```
+
+2. Go to the root folder of your project in the terminal and write:
+ **npx next build**
+
+3. Then write:
+ **npx next export**
+
+
+
 ### Final thoughts
 
 Even if you manage to make your Next.js project in 32 bits, remember that you will be using a old version of it, therefore you will face a lot of issues trying to work in such conditions for you will not be enjoying many bug-fixes and latest features of the framework, and many new libraries made for Next.js may won't work.
