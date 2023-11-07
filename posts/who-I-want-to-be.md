@@ -79,6 +79,31 @@ There is one little quote about Euler I wish to share, that actually was shared 
 
 And Euler, by that metric, was a **genius**.
 
-What I admire about euler is that it feels like he was a force of nature. Let me explain myself. He is someone doing what he loves, what he likes, and doing it no matter what. Am I blind?, I don't give a single fuck, I will keep doing math, and even do more. That was Leonhard Euler, he was doing math like the earth goes around the earth, or like the sun brights, it just happens and there is nothing you can do about it. If Euler was alive and you were about to ask me "What is more probable to happen, Euler stop doing math or the Earth going around the Sun?" I would have a hard time giving you an answer.
+What I admire about Euler is that it feels like he was a force of nature. Let me explain myself. He is someone doing what he loves, what he likes, and doing it no matter what. Am I blind?, I don't give a single fuck, I will keep doing math, and even do more. That was Leonhard Euler, he was doing math like the earth goes around the earth, or like the sun brights, it just happens and there is nothing you can do about it. If Euler was alive and you were about to ask me "What is more probable to happen, Euler stop doing math or the Earth going around the Sun?" I would have a hard time giving you an answer.
 
-## Leonhard Euler
+I wanted to put Leonhard Euler after John Carmack in my post as my way of saying that even though I admire Carmack passion and attitude of doing hard work without maybe the great academic knowledge necessary, that does not mean that I have an anti-intellectual attitude and anti-formal education attitude. I believe that when one have to achieve something, Carmack and Euler had something in common, both where dealing with things that required them to find solutions that they were not teached in a text book how to solve it and needed imagination and skill to work around it. Yes, the toolkit of Euler was far bigger than the one of Carmack, but both were dealing with problems for which there were not a guide in a manual in their respective toolkits to deal with it.
+
+## Gilles Villeneuve
+
+What a change, right?. I have to admit that I am not Formula 1 fan, I know a bit to nothing about cars *(I've never drive a car myself and I'm 29)* but there is something about the history of Gilles Villeneuve that touches me, and touches me deeply.
+
+Gilles Villeneuve was a Canadian F1 driver. His path was not an easy one for money was an issue during his early career since he was a professional racing driver from his late teens with no other income.
+Later on, he had a better income from snowmobile racing where he was very successful.
+
+To have more chances of debuting at Formula 1 he lied about his age saying he was 25 when he was actually 27 fearing he would be considered too old to be successfull.
+He actually beat James Hunt and other great figures in a non-championship Formula Atlantic race in 1976. Because of that McLaren offered him a Formula One deal.
+McLaren decided later to not continue with him and then Ferrari was interested in this young canadian driver.
+
+Enzo Ferrari saw in him a driver from the past, the great Tazio Nuvolari. 
+
+> "When they presented me with this 'piccolo Canadese' (little Canadian), this minuscule bundle of nerves, I immediately recognised in him the physique of Nuvolari and said to myself, let's give him a try."
+
+I could talk to you more about him, but let me go to the point I want to make about Gilles Villeneuve: **He was bold.**
+And many people can be bold and that does to make them special or inspiring, sometimes that can be something annoying from a person. But Gilles was bold and a gentleman at the same time on the race track. 
+And that is something that I can admire about Gilles Villeneuve: Being passionat about something you love, being bold but without forgetting that one needs to remember that there's other people around and that one can be bold, passionate without being a danger or a serious problem to others around.
+
+There are two memorable moments of what makes to me important to mention Gilles Villeneuve as an inspiration to me:
+
+1. During the 1979 Dutch Grand Prix, Gilles had an accident and it resulted in one of the wheels of his Ferrari being nearly destroyed. Did he stopped driving?, no, he also was a force of the nature so he continued to drive even to the point where that damaged wheel was completely destroyed and ended driving a three-wheels Ferrari. The man could not care less about how expensive the car was, he just wanted to drive, and he would drive.
+
+2. During the 1979 French Grand Prix, Gilles Villeneuve and René Arnoux were having a toe-to-toe racing duel that was one of the most exciting moments in the history of Formula One, if not the most exciting one. During this duel Gilles showed what I told you before, he was bold but he was also a gentleman and this is something really hard to achieve. Being able to make a very bold and amazing duel in Formula 1 without putting in risk the other and respecting the rules of the game is something really valuable and special. Anyone can be bold breaking the rules, but being bold respecting the rules and respecting the other, THAT is the real deal. Oh, and by the way, this duel between Gilles Villeneuve and René Arnoux, one of the most memorable moments in the history of Formula 1, was not about the first position in that race but about the second. Who won that race?, who cares!, the second place was giving a more exciting and passionate moment than the first place. Sometimes you can do such a great work that no matter that you lose, or failed, you still can give the world your brighest hour at losing and failing.
