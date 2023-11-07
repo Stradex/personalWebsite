@@ -38,4 +38,47 @@ Then, a last time, I learned some Linear Algebra, Discrete Maths and followed a 
 
 A failure after failure, beautiful failures because those were the happiest days of my life since I was trying to imitate one of my idols: **John Carmack**, creator of Doom Engine and Quake Engine.
 
-What you 
+Let me tell you a bit about John Carmack. During 1978, as a child, he discovered the Space Invaders videogame and a few years later he discovered Pac-Man. Games like those left a very deep impresion on him, so he probably though *"Fuck it, I want to do the same"*. In fact, he wanted so badly to do the same that when he was 14 he actually broke into a school to steal Apple II computers, btw he was sentenced to a year in a juvenile home for this little crime.
+
+I could tell you more but you can always check Wikipedia, so let me put it short: Carmack was the kind of people who would try without giving a shit about *"Credentials"*, *"Pure Mathematical Knowledge"*, etc..
+He could not care less about it. Many of us would be like: *"Ok, I want to make a basic 3D Game Engine, so better I learn Linear Algebra, and just in case, Discrete Maths, before even trying to do work"*
+But John Carmack?, he laughs at us!, Fool mere mortals!
+
+He would just jump into the task with basic high school math, with poor knowledge about what a Matrix and Vector is, with trigonometry skills only. 
+
+> "Linear transformation? Projection Matrix? I don't have time for your bullshit."
+> - John Carmack *(he probably never said this.)*
+
+That was the inspiring thing about John Carmack and the lesson I always tried to learn from him.
+Yes, of course having the knowledge before doing a project is great, but what if you don't have all the necessary knowledge?, what if you don't even know if you have all the necessary knowledge?, you try and find out you lazy.
+
+*"No, but I have to read ten math books first. I need a PhD in Math to make a Tetris First"*, To the hell with that, just do it.
+
+And I believe that is a great lesson, you can't even know if you truly have all the necessary tools and knowledge to achive a big project, and believe me a Game Engine is a BIG project. The only way to know is to try, and I believe that is something sometimes great to learn: The fact that sometimes you have no fucking clue and idea if you could do something but you try it, and you try it hard... BELIEVE ME, Carmack did try hard, like really hard. Could he do things faster and better if he knew advanced math and physics before trying to face the colossal task of making a 3D game engine?, yes he could, but what do we remember the most?, Doom or some university project about 3D rendering? And what trains the mind more?, to have more tools to achieve a task or to use your mind to find a solution to a problem with less tools so you are more limited to work and then your imagination needs to work hard to find solutions with tools that were not originally made for the problem you are facing?
+
+Maybe the average engineer knows far better Math and Physics than John Carmack at 1993, but I am sure that same average Engineer, with a hand in his heart, could admit that he is not so sure that he's smarter or better at problem solving as someone like John Carmack can be. He worked HARD and that's also something inspiring, he worked REALLY hard. He was no lazy genius, he was a hard working person *(and a bit of a genius too)*
+
+## Leonhard Euler
+
+This can be a bit confusing at first glance, but if there is something that Euler and Carmack have in common is **HARD WORK**.
+What can I say about Leonhard Euler as something that just like math a bit but not enough to be a math person?
+At early age he received schooling in mathematics from his father, a student from no less than Jacob Bernoulli. He attended the University of Basel and earned a master's during his teens.
+
+Let me share you some facts to explain why I admire Euler:
+* The collected works of Euler, the Opera Omnia, contains 75 volumes and over 25000 pages.
+* After he died, Euler published 228 papers. *(Papers that they found in this house, obviously)*
+* There are more than 95 Mathematical Terms named after Euler. *(For comparison, there are 70 named after Gauss and 33 named after Cauchy)*
+* When he went completely blind at age 64, his remarkable mathematical work continued and, in fact, it even increased.
+
+I am not in position to explain the real beauty behind Euler math but from my small perspective, but there is something to admire about him that even I can notice: His hard work and what cam happen when you put someone that is good at doing something, loves doing it and you let him work and live to do that thing. The result is that he could change the world and inspire all the humanity.
+
+There is one little quote about Euler I wish to share, that actually was shared by Professor William Dunham in a lecture about Euler.
+
+> *Talent* is doing easily what others find difficult.
+> *Genius* is doing easily what others find impossible.
+
+And Euler, by that metric, was a **genius**.
+
+What I admire about euler is that it feels like he was a force of nature. Let me explain myself. He is someone doing what he loves, what he likes, and doing it no matter what. Am I blind?, I don't give a single fuck, I will keep doing math, and even do more. That was Leonhard Euler, he was doing math like the earth goes around the earth, or like the sun brights, it just happens and there is nothing you can do about it. If Euler was alive and you were about to ask me "What is more probable to happen, Euler stop doing math or the Earth going around the Sun?" I would have a hard time giving you an answer.
+
+## Leonhard Euler
